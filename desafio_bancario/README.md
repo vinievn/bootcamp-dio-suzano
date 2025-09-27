@@ -1,6 +1,6 @@
 # Objetivo
 - Criar um sistema bancário simples com as operações: **sacar**, **depositar** e **extrato**;
-- Limite de 10 operações por dia.
+- Limite de 10 transações por dia.
 ## Depósito
 - Apenas valores positivos;
 - Armazenado em variável;
