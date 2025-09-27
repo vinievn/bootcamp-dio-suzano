@@ -1,5 +1,6 @@
 # Objetivo
-- Criar um sistema bancário simples com as operações: **sacar**, **depositar** e **extrato**.
+- Criar um sistema bancário simples com as operações: **sacar**, **depositar** e **extrato**;
+- Limite de 10 operações por dia.
 ## Depósito
 - Apenas valores positivos;
 - Armazenado em variável;
@@ -14,4 +15,5 @@
 - Saldo começa zerado;
 - Listar todos os **depósitos** e **saques**;
 - Exibir o saldo atual da conta;
-- Exibir valores formatados em: R$ X,XX.
+- Exibir valores formatados em: R$ X,XX;
+- Exibir data e hora de todas as transações.
